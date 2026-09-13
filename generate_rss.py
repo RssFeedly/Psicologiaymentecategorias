@@ -13,6 +13,7 @@ urls = [
     "https://psicologiaymente.com/categoria/psicofarmacologia",
     "https://psicologiaymente.com/categoria/consumidor",
     "https://psicologiaymente.com/categoria/inteligencia",
+    "https://psicologiaymente.com/categoria/clinica",
     "https://psicologiaymente.com/marketing",
     "https://www.psicologia-online.com/pir/", 
 ]
